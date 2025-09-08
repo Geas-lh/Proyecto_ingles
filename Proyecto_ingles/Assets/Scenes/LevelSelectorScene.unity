@@ -959,19 +959,19 @@ MonoBehaviour:
     imagenUI: {fileID: 1363973952}
     puntoMapa: {fileID: 1463272318}
   - nombre: El templo de Bellona
-    nombreEscena: 
+    nombreEscena: Nivel2
     imagenUI: {fileID: 712953325}
     puntoMapa: {fileID: 890431801}
   - nombre: La Fiesta de Arisk
-    nombreEscena: 
+    nombreEscena: Nivel3
     imagenUI: {fileID: 1596267656}
     puntoMapa: {fileID: 1715447653}
   - nombre: El templo de Bell
-    nombreEscena: 
+    nombreEscena: Nivel4
     imagenUI: {fileID: 1436240990}
     puntoMapa: {fileID: 445651474}
   - nombre: El gran Monte de Krit Dass
-    nombreEscena: 
+    nombreEscena: Nivel5
     imagenUI: {fileID: 507505813}
     puntoMapa: {fileID: 513772301}
   textoNivel: {fileID: 94006492}
@@ -1005,41 +1005,6 @@ MonoBehaviour:
   m_ChildScaleWidth: 0
   m_ChildScaleHeight: 0
   m_ReverseArrangement: 0
---- !u!1 &365157507
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 365157508}
-  m_Layer: 5
-  m_Name: GameObject
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &365157508
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 365157507}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1946941834}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
-  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &386251705
 GameObject:
   m_ObjectHideFlags: 0
@@ -4706,7 +4671,6 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1300518153}
-  - {fileID: 365157508}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}

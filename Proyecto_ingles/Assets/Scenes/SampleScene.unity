@@ -3344,19 +3344,19 @@ MonoBehaviour:
     imagenUI: {fileID: 1306474077}
     puntoMapa: {fileID: 1899124161}
   - nombre: El templo de Bellona
-    nombreEscena: 
+    nombreEscena: NIvel2
     imagenUI: {fileID: 2047637918}
     puntoMapa: {fileID: 12611208}
   - nombre: La Fiesta de Arisk
-    nombreEscena: 
+    nombreEscena: Nivel3
     imagenUI: {fileID: 620951526}
     puntoMapa: {fileID: 304715379}
   - nombre: El templo de Bell
-    nombreEscena: 
+    nombreEscena: Nivel4
     imagenUI: {fileID: 1330636516}
     puntoMapa: {fileID: 678000994}
   - nombre: El gran Monte de Krit Dass
-    nombreEscena: 
+    nombreEscena: Nivel5
     imagenUI: {fileID: 2133518215}
     puntoMapa: {fileID: 1895825512}
   textoNivel: {fileID: 1300160656}
